@@ -15,7 +15,7 @@ const ball = {
     speed : 5,
     velocityX : 5,
     velocityY : 5,
-    color : "blue"
+    color : "blue git"
 }
 // create net
 
